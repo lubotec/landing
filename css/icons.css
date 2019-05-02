@@ -1,0 +1,10 @@
+.links {
+  display: block;
+  text-align: center;
+}
+
+.icon {
+  font-size: 32px;
+  color: black;
+  padding: 0 30px;
+}
